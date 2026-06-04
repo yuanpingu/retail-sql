@@ -2,7 +2,7 @@
 This app aims to visualize online retail data using SQL queries and graphs.
 
 ## Demo App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](Link coming soon!)
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://retail-sql-3fstunbfbbmrdyhcgt7nau.streamlit.app/)
 
 ## Dataset
 This project was inspired by and developed using the Online Retail (2015) dataset from the UC Irvine Machine Learning Repository.
