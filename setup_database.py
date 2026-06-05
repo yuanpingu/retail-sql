@@ -7,7 +7,7 @@ cursor = conn.cursor()
 with open("create_tables.sql", "r") as file:
     cursor.executescript(file.read())
 
-df = pd.read_csv("online_retail.csv", encoding="utf-8-sig") #read csv
+df = pd.read_csv("Online Retail 2015 dataset.csv", encoding="utf-8-sig") #read csv
 
 print("Columns before rename:")
 print(df.columns.tolist())
