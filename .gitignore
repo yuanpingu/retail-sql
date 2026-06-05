@@ -25,3 +25,6 @@ Thumbs.db
 
 # Large/private data
 data/private/
+
+#Media
+Media/
