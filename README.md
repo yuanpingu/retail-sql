@@ -9,6 +9,16 @@ This project was inspired by and developed using the Online Retail (2015) datase
 
 Dataset DOI: https://doi.org/10.24432/C5BW33
 
+## Variables
+- InvoiceNo (Categorical) - Unique number assigned to each transaction
+- StockCode (Categorical) - Unique number assigned to distinct products
+- Description (Categorical) - Product name
+- Quantity (Numerical) - Quantities of each product per transaction
+- InvoiceDate (Numerical) - Day and time of each transaction
+- UnitPrice (Numerical) - Product price per unit
+- CustomerID (Categorical) - Unique number assigned to each customer
+- Country (Categorical) - Name of the country the customer resides in 
+
 ## Features
 - Database creation
 - Entity relationship diagram
