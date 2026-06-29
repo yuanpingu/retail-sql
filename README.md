@@ -7,7 +7,7 @@ This app aims to visualize online retail data using SQL queries and graphs.
 ## Dataset
 This project was inspired by and developed using the Online Retail (2015) dataset from the UC Irvine Machine Learning Repository.
 
-Dataset DOI: https://doi.org/10.24432/C5BW33
+Dataset citation: Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
 
 ## Variables
 - InvoiceNo (Categorical) - Unique number assigned to each transaction
